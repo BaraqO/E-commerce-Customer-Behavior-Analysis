@@ -1,0 +1,51 @@
+Customer ID,Age,Gender,Location,Annual Income,Product Category,Price,Numerical Rating,Repeat Purchase,Time on Site(In minutes)
+1001,25,Female,City D,45000,Clothing,34.99,4,1,32.5
+1001,28,Female,City D,52000,Clothing,34.56,None,1,123.45
+1001,28,Female,City D,65000,Electronics,345.5,None,1,125.6
+1001,45,Female,City D,70000,Electronics,200.5,4,1,327.6
+1002,34,Male,City E,45000,Clothing,67.2,3,1,214.9
+1003,56,Other,City F,90000,Electronics,300.2,5,1,486.3
+1004,29,Female,City G,60000,Electronics,150.8,4,1,378.5
+1005,42,Male,City H,75000,Electronics,250.6,3,1,289.8
+1006,51,Other,City I,85000,Electronics,400.9,5,1,456.2
+1007,36,Female,City J,55000,Electronics,120.5,4,1,334.9
+1008,48,Male,City K,80000,Electronics,350.2,3,1,298.6
+1009,25,Other,City L,40000,Electronics,170.8,4,1,312.5
+1001,45,Female,City D,75000,Clothing,45.99,5,1,120
+1002,32,Male,City A,50000,Electronics,250,3,1,75
+1003,60,Other,City B,80000,Home & Garden,180,5,1,200
+1004,28,Female,City C,45000,Clothing,29.99,2,1,150
+1005,55,Male,City E,90000,Electronics,600,5,1,300
+1006,38,Female,City F,65000,Home & Garden,220,5,1,250
+1007,42,Male,City G,70000,Clothing,39.99,3,1,180
+1008,50,Female,City H,85000,Electronics,550,5,1,280
+1009,35,Male,City I,55000,Home & Garden,200,4,1,220
+1010,48,Female,City J,75000,Clothing,34.99,5,1,200
+1011,30,Male,City K,40000,Electronics,150,3,1,160
+1012,65,Female,City L,95000,Home & Garden,170,5,1,240
+1001,24,Female,City D,45000,Clothing,34.5,5,0,120.5
+1001,35,Female,City D,50000,Clothing,120,5,1,120
+1002,45,Male,City E,80000,Electronics,350,4.5,0,300
+1003,28,Female,City F,60000,Clothing,75,5,1,250
+1004,52,Male,City G,70000,Electronics,200,4,1,350
+1005,31,Female,City H,45000,Clothing,50,3.5,1,200
+1006,48,Male,City I,90000,Electronics,400,5,1,400
+1007,60,Female,City J,65000,Clothing,100,4,1,300
+1008,55,Male,City K,85000,Electronics,300,5,1,450
+1009,29,Female,City L,40000,Clothing,60,4.5,1,250
+1010,58,Male,City M,75000,Electronics,250,5,1,350
+1011,36,Female,City N,55000,Clothing,80,4.5,1,200
+1012,42,Male,City O,95000,Electronics,350,5,1,300
+1013,50,Female,City P,68000,Clothing,120,4,1,250
+1001,32,Female,City D,65000,Clothing,45.23,5,1,72.3
+1001,35,Female,City D,60000,Electronics,250.5,None,1,123.6
+1002,42,Male,City E,75000,Clothing,150.2,None,1,246.9
+1001,32,Female,City D,55000,Electronics,249.99,None,0,75.2
+1001,28,Female,City D,65000,Clothing,45.99,None,1,120.5
+1002,42,Male,City E,80000,Electronics,249.99,None,1,250
+1003,35,Other,City F,50000,Clothing,34.99,None,1,75
+1004,52,Female,City G,100000,Clothing,79.99,None,1,300
+1005,24,Male,City H,45000,Electronics,129.99,None,1,100
+1001,34,Female,City D,55000,Clothing,25.6,5,1,120
+1002,45,Male,City E,87000,Electronics,420,5,1,350
+1003,29,Other,City F,42000,Electronics,180,4,1,200
